@@ -33,7 +33,7 @@ In this repo you'll find the analysis I did for the data scientist nanodegree us
 - `boston-airbnb-open-data/calendar.csv` `listings.csv` `reviews.csv` - Boston data
 
 ## Blog Post
-https://medium.com/@davidgm_18619/what-i-found-from-analyzing-the-boston-airbnb-open-dataset-8c0fae4c3737
+
 
 ## Acknowledgements
 I got the data from Kaggle
