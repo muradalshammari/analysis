@@ -1,4 +1,17 @@
 # DSND-Term2-Blog-Post
+
+### Motivation for The Project
+
+The Boston Airbnb data is an open dataset that can be used to practice your data science skills.
+I will answer questions, as follow:
+
+1) What are the price distributions for each type of room?
+2) What are the features that highly correlate to price?
+3) What are the most expensive zip codes in Boston?
+
+In the first question we will investigate the price distribution to make sure we drop outliers. In the next question, Not all features will have impact on the price, So, the only features with high correlation will be kept. In the last qustion, The zip code is very important to show where the property is located and that matters for the price. 
+
+
 ### Blog Post project
 
 In this repo you'll find the analysis I did for the data scientist nanodegree using public data from Kaggle.
